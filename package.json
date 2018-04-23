@@ -1,0 +1,47 @@
+{
+  "name": "aston-crowdsale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.0.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^4.1.0",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "command-line-args": "^4.0.7",
+    "dotenv": "^4.0.0",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.2.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.19.2",
+    "path": "^0.12.7",
+    "truffle-contract": "^3.0.1",
+    "truffle-hdwallet-provider": "git+https://github.com/cemozerr/truffle-hdwallet-provider.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onther-Tech/aston-crowdsale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onther-Tech/aston-crowdsale/issues"
+  },
+  "homepage": "https://github.com/Onther-Tech/aston-crowdsale#readme"
+}

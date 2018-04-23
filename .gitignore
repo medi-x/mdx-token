@@ -1,0 +1,7 @@
+node_modules/
+.node*
+scripts/
+docs/
+run.testrpc.sh
+truffle-config.js
+truffle.js
